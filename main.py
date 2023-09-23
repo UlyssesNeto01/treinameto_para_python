@@ -67,3 +67,4 @@ while True:
 
 print("teste deu certo")
 print("novo teste")
+print("de certo")
