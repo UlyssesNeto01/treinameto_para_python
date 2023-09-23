@@ -66,3 +66,4 @@ while True:
         print("Nome errado, coloque só letras do alfabeto")
 
 print("teste deu certo")
+print("novo teste")
